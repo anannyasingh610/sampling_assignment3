@@ -16,6 +16,7 @@ For sampling, I have used the following different techniques:
 2. Stratified Sampling
 3. Cluster Sampling
 4. Systematic Sampling
+5. Purposive Sampling
 
 All five samples were then trained on the following ML models with K-Fold Cross Validation:
 
